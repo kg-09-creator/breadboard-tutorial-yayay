@@ -16,3 +16,9 @@ Wrote the firmware for the project but still need to proofread it
 ## Jul 18, 2026, 5:35 PM
 
 Everything works!! Spent a lot of time trying to correctly connect the wiring on the led and other parts, and it works now!!
+
+---
+
+## Jul 18, 2026, 6:42 PM
+
+I added a buzzer so that every time the button is pressed, the buzzer will let out a short beep.
