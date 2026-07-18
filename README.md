@@ -7,7 +7,7 @@
 
 > Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~4 hours of work.
 
-
+<img width="1272" height="456" alt="image" src="https://github.com/user-attachments/assets/1dd58001-5bf3-435c-afd8-7f88a38cd698" />
 
 ## What It Does
 
