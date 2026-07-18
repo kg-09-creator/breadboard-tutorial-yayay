@@ -1,17 +1,17 @@
-# breadboard tutorial yayay
+# a controllable led!
 
 
 
 
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~2.7 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3 hours of work.
 
 
 
 ## What It Does
 
-A knob sets how bright the LED glows and the button turns it on and off - when it's switched back on, it remembers the brightness setting.
+An led that can be controlled by a button and a potentiometer!
 
 
 ## How It Works
@@ -60,7 +60,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 2.7h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 3h of work*
 
 
 
