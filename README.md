@@ -21,7 +21,7 @@ The circuit is captured in `breadboard-project.json`, and the firmware that runs
 
 ## How To Use It
 
-Press the button and turn the knob!
+Press the button to turn the circuit on, after which the buzzer will let out a short beep signifying the circuit connection. Then, turn the knob on the potentionmeter to control the LED's brightness!
 
 
 ## Demo
