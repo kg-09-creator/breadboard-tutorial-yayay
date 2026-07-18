@@ -3,6 +3,7 @@
 const int LED_PIN = 3;
 const int BUTTON_PIN = 2;
 const int POT_PIN = A0;
+const int BUZZER_PIN = 9;
 
 bool ledOn = false;
 int lastButtonReading = HIGH;
@@ -11,6 +12,7 @@ const unsigned long debounceDelay = 50;
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
+  pinMode(BUZZER_PIN, OUTPUT);
   pinMode(BUTTON_PIN, INPUT_PULLUP);
 }
 
@@ -27,6 +29,8 @@ if ((millis() - lastDebounceTime) > debounceDelay) {
     buttonState = reading;
     if (buttonState == LOW) {
       ledOn = !ledOn;
+
+      tone(BUZZER_PIN, 1000, 70);
     }
   }
 }
