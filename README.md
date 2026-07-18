@@ -2,12 +2,12 @@
 
 
 
+![a controllable led!](screenshot.webp)
 
 
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~5.1 hours of work.
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~4 hours of work.
 
-<img width="1272" height="456" alt="image" src="https://github.com/user-attachments/assets/1dd58001-5bf3-435c-afd8-7f88a38cd698" />
 
 ## What It Does
 
@@ -21,7 +21,7 @@ The circuit is captured in `breadboard-project.json`, and the firmware that runs
 
 ## How To Use It
 
-Press the button to turn the circuit on, after which the buzzer will let out a short beep signifying the circuit connection. Then, turn the knob on the potentionmeter to control the LED's brightness!
+Press the button and turn the knob!
 
 
 ## Demo
@@ -61,7 +61,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 4h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 5.1h of work*
 
 
 
