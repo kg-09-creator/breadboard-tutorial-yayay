@@ -9,14 +9,15 @@
       "y": 47.240790626313185,
       "activeFileGroupId": "group-arduino-uno",
       "languageMode": "arduino",
-      "serialBaudRate": 0
+      "serialBaudRate": 0,
+      "compiledProgram": ":100000000C9461000C947E000C947E000C947E0095\n:100010000C947E000C947E000C947E000C947E0068\n:100020000C947E000C947E000C947E000C947E0058\n:100030000C947E000C947E000C947E000C947E0048\n:100040000C9405010C947E000C947E000C947E00B0\n:100050000C947E000C947E000C947E000C947E0028\n:100060000C947E000C947E0000000000230026000B\n:10007000290000000000240027002A0000000000E2\n:10008000250028002B0004040404040404040202D4\n:100090000202020203030303030301020408102007\n:1000A0004080010204081020010204081020000012\n:1000B0000008000201000003040700000000000027\n:1000C000000011241FBECFEFD8E0DEBFCDBF11E08E\n:1000D000A0E0B1E0ECEEF5E002C005900D92A43096\n:1000E000B107D9F721E0A4E0B1E001C01D92A2312F\n:1000F000B207E1F70E944F010C94F4020C94000047\n:10010000833081F028F4813099F08230A9F008958D\n:100110008730A9F08830C9F08430B1F48091800034\n:100120008F7D03C0809180008F7780938000089539\n:1001300084B58F7784BD089584B58F7DFBCF809182\n:10014000B0008F778093B00008958091B0008F7DCC\n:10015000F9CF1F93CF93DF93E1EBF0E09491EDE9BA\n:10016000F0E0D491E9E8F0E0C491CC23B9F0182F85\n:10017000992319F0892F0E948000EC2FF0E0EE0FF8\n:10018000FF1FE458FF4FA591B4918FB7F894EC91FD\n:10019000111108C0D095DE23DC938FBFDF91CF9182\n:1001A0001F910895DE2BF8CFCF93DF9390E0FC01F1\n:1001B000E656FF4F24918A579F4FFC018491882374\n:1001C000D1F090E0880F991FFC01EE58FF4FA591E8\n:1001D000B491FC01E458FF4FC591D491623071F4A1\n:1001E0009FB7F8943C91822F809583238C93E8816C\n:1001F0002E2B28839FBFDF91CF9108958FB7F8945E\n:10020000EC912E2B2C938FBFF6CF1F920F920FB62F\n:100210000F9211242F933F938F939F93AF93BF938C\n:1002200080910E0190910F01A0911001B0911101E8\n:1002300030910D0123E0230F2D3758F50196A11DB4\n:10024000B11D20930D0180930E0190930F01A09397\n:100250001001B09311018091090190910A01A091C0\n:100260000B01B0910C010196A11DB11D80930901F4\n:1002700090930A01A0930B01B0930C01BF91AF9131\n:100280009F918F913F912F910F900FBE0F901F90D4\n:10029000189526E8230F0296A11DB11DD2CF7894A0\n:1002A00084B5826084BD84B5816084BD85B582607B\n:1002B00085BD85B5816085BD80916E00816080932C\n:1002C0006E00109281008091810082608093810095\n:1002D00080918100816080938100809180008160A5\n:1002E000809380008091B10084608093B100809100\n:1002F000B00081608093B00080917A008460809328\n:100300007A0080917A00826080937A0080917A00EE\n:10031000816080937A0080917A00806880937A006F\n:100320001092C10061E083E00E94D40062E082E0AC\n:100330000E94D40090EB892E90E0992E28E8E22EBE\n:1003400020E0F22E44244A9433E0532E612C712C89\n:1003500041EBA42E40E0B42E50E0C52E50E0D52E47\n:10036000F4018491ECE9F0E0C491F701D491DD232C\n:1003700009F489C081110E948000ED2FF0E0EE0F9A\n:10038000FF1FE859FF4FA591B4918C91C82331E02C\n:1003900020E009F430E0832F922F20910201309168\n:1003A00003012817390799F02FB7F89440910E01EF\n:1003B00050910F0160911001709111012FBF409376\n:1003C00005015093060160930701709308012FB750\n:1003D000F89440910E0150910F01609110017091BD\n:1003E00011012FBF00910501109106012091070115\n:1003F00030910801401B510B620B730B43335105C5\n:100400006105710598F020910001309101012817D4\n:10041000390761F02091040190930101809300015C\n:10042000009721F4F1E02F2720930401909303011A\n:100430008093020180910401882309F479C030E49B\n:1004400030937C0080917A00806480937A00809160\n:100450007A0086FDFCCFA0917800B091790021EE62\n:1004600030E00E94ED02A30192010E949D02322E13\n:10047000232EC22FD32F61E083E00E94D400209767\n:1004800029F480E007C090E080E087CFCF3FD1051E\n:1004900021F481E00E94A90023C0F50184918330FA\n:1004A00059F140F48130C1F0823009F1C038D105F2\n:1004B00084F7E7CF873061F1883091F18430B1F76C\n:1004C00080918000806280938000832D922D909394\n:1004D0008B0080938A0004C084B5806884BD37BCDB\n:1004E000C114D10409F43CCF0E94000039CF84B577\n:1004F000806284BD38BCF4CF809180008068809396\n:100500008000832D922D9093890080938800E8CFFE\n:100510008091B00080688093B0003092B300E0CF4B\n:100520008091B00080628093B0003092B400D8CF48\n:1005300061E083E00E94D400A4CF052E97FB1EF457\n:1005400000940E94B40257FD07D00E94BC0207FC31\n:1005500003D04EF40C94B4025095409530952195FB\n:100560003F4F4F4F5F4F08959095809570956195DF\n:100570007F4F8F4F9F4F0895A1E21A2EAA1BBB1BDE\n:10058000FD010DC0AA1FBB1FEE1FFF1FA217B3075F\n:10059000E407F50720F0A21BB30BE40BF50B661F75\n:1005A000771F881F991F1A9469F760957095809539\n:1005B00090959B01AC01BD01CF010895A29FB001B0\n:1005C000B39FC001A39F700D811D1124911DB29F87\n:1005D000700D811D1124911D08950E94DE02B7FF48\n:0C05E0000895821B930B0895F894FFCF40\n:0405EC000100010009\n:00000001FF\n"
     }
   ],
   "fileGroups": {
     "group-arduino-uno": [
       {
         "name": "sketch.ino",
-        "content": "\n\nconst int LED_PIN = 3;\nconst int BUTTON_PIN = 2;\nconst int POT_PIN = A0;\n\nbool ledOn = false;\nint lastButtonReading = HIGH;\nunsigned long lastDebounceTime = 0;\nconst unsigned long debounceDelay = 50;\n\nvoid setup() {\n  pinMode(LED_PIN, OUTPUT);\n  pinMode(BUTTON_PIN, INPUT_PULLUP);\n}\n\nvoid loop() {\n\nint reading = digitalRead(BUTTON_PIN);\nif (reading != lastButtonReading) {\n  lastDebounceTime = millis(); \n}\n\nif ((millis() - lastDebounceTime) > debounceDelay) {\n  static int buttonState = HIGH;\n  if (reading != buttonState) {\n    buttonState = reading;\n    if (buttonState == LOW) {\n      ledOn = !ledOn;\n    }\n  }\n}\nlastButtonReading = reading;\n\nif (ledOn) {\n  int potValue = analogRead(POT_PIN);\n  int brightness = map(potValue, 0, 1023, 0, 225);\n  analogWrite(LED_PIN, brightness);\n} else {\n  analogWrite(LED_PIN, 0;)\n}\n}"
+        "content": "\n\nconst int LED_PIN = 3;\nconst int BUTTON_PIN = 2;\nconst int POT_PIN = A0;\n\nbool ledOn = false;\nint lastButtonReading = HIGH;\nunsigned long lastDebounceTime = 0;\nconst unsigned long debounceDelay = 50;\n\nvoid setup() {\n  pinMode(LED_PIN, OUTPUT);\n  pinMode(BUTTON_PIN, INPUT_PULLUP);\n}\n\nvoid loop() {\n\nint reading = digitalRead(BUTTON_PIN);\nif (reading != lastButtonReading) {\n  lastDebounceTime = millis(); \n}\n\nif ((millis() - lastDebounceTime) > debounceDelay) {\n  static int buttonState = HIGH;\n  if (reading != buttonState) {\n    buttonState = reading;\n    if (buttonState == LOW) {\n      ledOn = !ledOn;\n    }\n  }\n}\nlastButtonReading = reading;\n\nif (ledOn) {\n  int potValue = analogRead(POT_PIN);\n  int brightness = map(potValue, 0, 1023, 0, 225);\n  analogWrite(LED_PIN, brightness);\n} else {\n  analogWrite(LED_PIN, 0);\n}\n}"
       }
     ]
   },
@@ -24,15 +25,18 @@
     {
       "id": "breadboard_full_1784346424673_0biadcohx",
       "metadataId": "breadboard-full",
-      "x": 181.06666618511747,
-      "y": 68.9569263373225,
-      "properties": {}
+      "x": 212.06897309582234,
+      "y": 75.88958804992365,
+      "properties": {
+        "state": true,
+        "value": true
+      }
     },
     {
       "id": "resistor_220_1784346809137_bt5m66vak",
       "metadataId": "resistor-220",
-      "x": 152.26666618511751,
-      "y": 162.6069263373225,
+      "x": 183.2689730958224,
+      "y": 169.53958804992365,
       "properties": {
         "value": "220",
         "rotation": 180
@@ -48,12 +52,12 @@
     {
       "id": "potentiometer_1784348343221_el3cnegd6",
       "metadataId": "potentiometer",
-      "x": 339.86666618511725,
-      "y": 125.4569263373225,
+      "x": 370.8689730958221,
+      "y": 132.38958804992365,
       "properties": {
         "min": 0,
         "max": 1023,
-        "value": 0,
+        "value": 868,
         "step": 1,
         "startDegree": -135,
         "endDegree": 135
@@ -70,8 +74,8 @@
     {
       "id": "pushbutton_1784348494128_rg6hdimlp",
       "metadataId": "pushbutton",
-      "x": 475.0666661851173,
-      "y": 161.9569263373225,
+      "x": 506.0689730958221,
+      "y": 168.88958804992365,
       "properties": {
         "color": "red",
         "pressed": false,
@@ -89,11 +93,18 @@
     {
       "id": "led_red_1784346975831_9kehewy9m",
       "metadataId": "led-red",
-      "x": 250.27775799187935,
-      "y": 130.45056885768076,
+      "x": 273.4689730958223,
+      "y": 160.88958804992365,
       "properties": {
         "color": "green",
         "rotation": 180
+      },
+      "attachedTo": {
+        "breadboardId": "breadboard_full_1784346424673_0biadcohx",
+        "pinMap": {
+          "A": "F10",
+          "C": "F11"
+        }
       }
     }
   ],
@@ -121,8 +132,8 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "TP1",
-        "x": 212.06666618511747,
-        "y": 91.9569263373225
+        "x": 243.06897309582234,
+        "y": 98.88958804992365
       },
       "end": {
         "componentId": "arduino-uno",
@@ -143,8 +154,8 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "BN1",
-        "x": 212.06666618511747,
-        "y": 275.9569263373225
+        "x": 243.06897309582234,
+        "y": 282.88958804992365
       },
       "end": {
         "componentId": "arduino-uno",
@@ -160,8 +171,8 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "G2",
-        "x": 221.66666618511746,
-        "y": 209.9569263373225
+        "x": 252.66897309582234,
+        "y": 216.88958804992365
       },
       "end": {
         "componentId": "arduino-uno",
@@ -192,8 +203,8 @@
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "TN1",
-        "x": 212.06666618511747,
-        "y": 104.9569263373225
+        "x": 243.06897309582234,
+        "y": 111.88958804992365
       },
       "color": "#000000"
     },
@@ -201,10 +212,14 @@
       "waypoints": [
         {
           "x": 64.42339305174212,
-          "y": 217.53052102392937
+          "y": 306.1883217595028
         },
         {
-          "x": 364.4068995276029,
+          "x": 466.4065817130308,
+          "y": 306.1883217595028
+        },
+        {
+          "x": 466.4065817130308,
           "y": 217.53052102392937
         }
       ],
@@ -218,8 +233,8 @@
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "J19",
-        "x": 384.8666661851174,
-        "y": 239.9569263373225
+        "x": 415.8689730958223,
+        "y": 246.88958804992365
       },
       "color": "#22c55e"
     },
@@ -229,14 +244,14 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "J20",
-        "x": 394.46666618511745,
-        "y": 239.9569263373225
+        "x": 425.4689730958223,
+        "y": 246.88958804992365
       },
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "BP20",
-        "x": 394.46666618511745,
-        "y": 262.9569263373225
+        "x": 425.4689730958223,
+        "y": 269.88958804992365
       },
       "color": "#cc0000"
     },
@@ -246,21 +261,25 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "J36",
-        "x": 548.0666661851175,
-        "y": 239.9569263373225
+        "x": 579.0689730958223,
+        "y": 246.88958804992365
       },
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "BN36",
-        "x": 548.0666661851175,
-        "y": 275.9569263373225
+        "x": 579.0689730958223,
+        "y": 282.88958804992365
       },
       "color": "#22c55e"
     },
     {
       "waypoints": [
         {
-          "x": 527.6068995276029,
+          "x": 579.0689730958221,
+          "y": 133.88958804992365
+        },
+        {
+          "x": 579.0689730958221,
           "y": 36.061856698423945
         },
         {
@@ -272,8 +291,8 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "A36",
-        "x": 548.0666661851175,
-        "y": 126.9569263373225
+        "x": 579.0689730958223,
+        "y": 133.88958804992365
       },
       "end": {
         "componentId": "arduino-uno",
@@ -289,14 +308,14 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "J19",
-        "x": 384.8666661851174,
-        "y": 239.9569263373225
+        "x": 415.8689730958223,
+        "y": 246.88958804992365
       },
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "J19",
-        "x": 384.8666661851174,
-        "y": 239.9569263373225
+        "x": 415.8689730958223,
+        "y": 246.88958804992365
       },
       "color": "#22c55e"
     },
@@ -306,14 +325,14 @@
       "start": {
         "componentId": "potentiometer_1784348343221_el3cnegd6",
         "pinName": "SIG",
-        "x": 384.86666618511725,
-        "y": 199.9569263373225
+        "x": 415.8689730958221,
+        "y": 206.88958804992365
       },
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "J19",
-        "x": 384.8666661851174,
-        "y": 239.9569263373225
+        "x": 415.8689730958223,
+        "y": 246.88958804992365
       },
       "color": "#22c55e"
     },
@@ -323,14 +342,14 @@
       "start": {
         "componentId": "pushbutton_1784348494128_rg6hdimlp",
         "pinName": "1.l",
-        "x": 481.0666661851173,
-        "y": 180.9569263373225
+        "x": 512.0689730958221,
+        "y": 187.88958804992365
       },
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "E29",
-        "x": 480.8666661851175,
-        "y": 166.9569263373225
+        "x": 511.86897309582235,
+        "y": 173.88958804992365
       },
       "color": "#22c55e"
     },
@@ -349,8 +368,8 @@
       "start": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "BP1",
-        "x": 212.06666618511747,
-        "y": 262.9569263373225
+        "x": 243.06897309582234,
+        "y": 269.88958804992365
       },
       "end": {
         "componentId": "arduino-uno",
@@ -358,7 +377,7 @@
         "x": 16.423393051742124,
         "y": 238.74079062631318
       },
-      "color": "#cc0000"
+      "color": "#FFFF00"
     },
     {
       "waypoints": [],
@@ -366,14 +385,14 @@
       "start": {
         "componentId": "pushbutton_1784348494128_rg6hdimlp",
         "pinName": "1.r",
-        "x": 548.0666661851174,
-        "y": 180.9569263373225
+        "x": 579.0689730958221,
+        "y": 187.88958804992365
       },
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "E36",
-        "x": 548.0666661851175,
-        "y": 166.9569263373225
+        "x": 579.0689730958223,
+        "y": 173.88958804992365
       },
       "color": "#22c55e"
     },
@@ -383,16 +402,67 @@
       "start": {
         "componentId": "potentiometer_1784348343221_el3cnegd6",
         "pinName": "GND",
-        "x": 374.86666618511725,
-        "y": 199.9569263373225
+        "x": 405.8689730958221,
+        "y": 206.88958804992365
       },
       "end": {
         "componentId": "breadboard_full_1784346424673_0biadcohx",
         "pinName": "BN18",
-        "x": 375.26666618511746,
-        "y": 275.9569263373225
+        "x": 406.26897309582233,
+        "y": 282.88958804992365
       },
       "color": "#000000"
+    },
+    {
+      "id": "wire-1784353784029",
+      "start": {
+        "componentId": "led_red_1784346975831_9kehewy9m",
+        "pinName": "A",
+        "x": 329.4689730958223,
+        "y": 206.88958804992365
+      },
+      "end": {
+        "componentId": "resistor_220_1784346809137_bt5m66vak",
+        "pinName": "1",
+        "x": 310.2689730958224,
+        "y": 206.88958804992365
+      },
+      "waypoints": [],
+      "color": "#22c55e"
+    },
+    {
+      "id": "wire-1784354302743",
+      "start": {
+        "componentId": "breadboard_full_1784346424673_0biadcohx",
+        "pinName": "F11",
+        "x": 339.06897309582234,
+        "y": 206.88958804992365
+      },
+      "end": {
+        "componentId": "breadboard_full_1784346424673_0biadcohx",
+        "pinName": "F13",
+        "x": 358.26897309582233,
+        "y": 206.88958804992365
+      },
+      "waypoints": [],
+      "color": "#22c55e"
+    },
+    {
+      "id": "wire-1784354318615",
+      "start": {
+        "componentId": "breadboard_full_1784346424673_0biadcohx",
+        "pinName": "F13",
+        "x": 358.26897309582233,
+        "y": 206.88958804992365
+      },
+      "end": {
+        "componentId": "breadboard_full_1784346424673_0biadcohx",
+        "pinName": "BN13",
+        "x": 358.26897309582233,
+        "y": 282.88958804992365
+      },
+      "waypoints": [],
+      "color": "#22c55e"
     }
   ],
   "activeBoardId": "arduino-uno",
