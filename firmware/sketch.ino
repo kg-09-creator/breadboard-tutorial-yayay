@@ -37,6 +37,6 @@ if (ledOn) {
   int brightness = map(potValue, 0, 1023, 0, 225);
   analogWrite(LED_PIN, brightness);
 } else {
-  analogWrite(LED_PIN, 0;)
+  analogWrite(LED_PIN, 0);
 }
 }
