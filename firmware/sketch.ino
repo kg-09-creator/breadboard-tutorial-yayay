@@ -30,7 +30,7 @@ if ((millis() - lastDebounceTime) > debounceDelay) {
     if (buttonState == LOW) {
       ledOn = !ledOn;
 
-      tone(BUZZER_PIN, 1000, 70);
+      tone(BUZZER_PIN, 1000, 50);
     }
   }
 }
