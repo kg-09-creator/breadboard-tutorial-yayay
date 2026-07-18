@@ -11,7 +11,7 @@
 
 ## What It Does
 
-An led that can be controlled by a button and a potentiometer!
+An led that can be controlled by a button and a potentiometer! Every time the button is pressed, a buzzer lets out a short beep.
 
 
 ## How It Works
