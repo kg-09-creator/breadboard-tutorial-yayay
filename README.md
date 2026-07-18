@@ -5,7 +5,7 @@
 
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3.3 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3.9 hours of work.
 
 
 
@@ -40,6 +40,7 @@ The editor snapshot is in `breadboard-project.json`.
 | Part | Quantity |
 | --- | --- |
 | breadboard-full | 1 |
+| buzzer-passive | 1 |
 | led-red | 1 |
 | potentiometer | 1 |
 | pushbutton | 1 |
@@ -60,7 +61,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 3.3h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 3.9h of work*
 
 
 
