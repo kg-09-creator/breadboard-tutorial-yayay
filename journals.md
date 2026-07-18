@@ -1,4 +1,4 @@
-# breadboard tutorial yayay Build Journal
+# a controllable led! Build Journal
 
 ## Jul 18, 2026, 4:14 AM
 
@@ -10,3 +10,9 @@ I added an LED and connected it to the arduino board. I also changed the wiring 
 
 Fixed the pot's wiring, been trying to fix the led wiring as well
 Wrote the firmware for the project but still need to proofread it
+
+---
+
+## Jul 18, 2026, 5:35 PM
+
+Everything works!! Spent a lot of time trying to correctly connect the wiring on the led and other parts, and it works now!!
